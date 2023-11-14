@@ -1,2 +1,2 @@
-class Rectangle:
-	pass
+#!/usr/bin/node
+module.exports = class Rectangle{};
